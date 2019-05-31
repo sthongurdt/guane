@@ -1,0 +1,10 @@
+Starting omp_dotprod_openmp. Using 8 threads
+Thread 0 partial sum = 100.000000
+Thread 1 partial sum = 100.000000
+Thread 3 partial sum = 100.000000
+Thread 7 partial sum = 100.000000
+Thread 5 partial sum = 100.000000
+Thread 6 partial sum = 100.000000
+Thread 4 partial sum = 100.000000
+Thread 2 partial sum = 100.000000
+Done. OpenMP version: sum  =  800.000000 
